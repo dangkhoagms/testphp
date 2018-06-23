@@ -3,4 +3,5 @@
  echo 'step one';
  echo 'step two';
  echo 'test three';
+ echo 'test four';
 ?>
