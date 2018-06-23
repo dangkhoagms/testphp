@@ -2,4 +2,5 @@
  echo 'hello';
  echo 'step one';
  echo 'step two';
+ echo 'test three';
 ?>
